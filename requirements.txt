@@ -1,0 +1,6 @@
+streamlit~=1.48.1
+gpt4all~=2.8.2
+numpy~=1.26.4
+requests~=2.32.3
+beautifulsoup4~=4.13.4
+faiss-cpu~=1.12.0
